@@ -74,9 +74,20 @@
     line-height: 24px;
     margin-bottom: 10px;
   }
+  .section .custom-content-wrapper {
+    padding: 15px;
+    text-align: center;
+    
+  }
+  
+  .section .custom-content-wrapper h3 {
+    padding: 10px;
+  }
+
   .section .custom-content-wrapper p {
     padding: 15px;
   }
+
   .interests {
     margin-top: 20px;
     margin-bottom: 10px;
@@ -206,6 +217,7 @@
   .section .custom-content-wrapper p {
     margin-top: 10px;
     padding: 0 20px;
+    text-align: justify;
   }
   .section .custom-content {
     padding: 0 10px !important;
